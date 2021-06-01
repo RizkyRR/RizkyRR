@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rizky Rahmadianto
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning CodeIgniter 3.x
+- 🌱 I’m currently learning CodeIgniter 3.x and Laravel
 - 📫 How to reach me rahmadianto018@gmail.com
 
 <!---
